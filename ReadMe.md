@@ -6,3 +6,8 @@ weatherdata2.sql为英文数据
 
 中文版用了可视化工具nacivat调整
 
+java代码在GetData中
+
+TestURL为主体代码
+
+TestJsonDataToMysql为将数据储存到数据库代码
